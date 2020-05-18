@@ -1,0 +1,10 @@
+C:\Users\Zoe\Documents\ООП\Задача6.1\Задача6.1\bin\Debug\Задача6.1.exe.config
+C:\Users\Zoe\Documents\ООП\Задача6.1\Задача6.1\bin\Debug\Задача6.1.exe
+C:\Users\Zoe\Documents\ООП\Задача6.1\Задача6.1\bin\Debug\Задача6.1.pdb
+C:\Users\Zoe\Documents\ООП\Задача6.1\Задача6.1\obj\Debug\Задача6.1.csprojAssemblyReference.cache
+C:\Users\Zoe\Documents\ООП\Задача6.1\Задача6.1\obj\Debug\Задача6._1.Form1.resources
+C:\Users\Zoe\Documents\ООП\Задача6.1\Задача6.1\obj\Debug\Задача6._1.Properties.Resources.resources
+C:\Users\Zoe\Documents\ООП\Задача6.1\Задача6.1\obj\Debug\Задача6.1.csproj.GenerateResource.cache
+C:\Users\Zoe\Documents\ООП\Задача6.1\Задача6.1\obj\Debug\Задача6.1.csproj.CoreCompileInputs.cache
+C:\Users\Zoe\Documents\ООП\Задача6.1\Задача6.1\obj\Debug\Задача6.1.exe
+C:\Users\Zoe\Documents\ООП\Задача6.1\Задача6.1\obj\Debug\Задача6.1.pdb
